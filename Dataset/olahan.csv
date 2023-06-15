@@ -1,0 +1,541 @@
+,makanan,air,kalori,protein,lemak,karbohidrat,serat,Mentah/Olahan,Kategori,vegan/nonvegan
+0,Nasi,56.7,180,3.0,0.3,39.8,0.2,Olahan,Serealia,vegan
+1,Nasi tim,71.0,120,2.4,0.4,26.0,0.5,Olahan,Serealia,vegan
+2,Tapai beras,75.5,99,1.7,0.3,22.4,0.0,Olahan,Serealia,vegan
+3,Nasi beras merah,64.0,149,2.8,0.4,32.5,0.3,Olahan,Serealia,vegan
+4,Bihun goreng instan,9.0,381,6.1,3.9,80.3,0.0,Olahan,Serealia,vegan
+5,Nasi jagung,11.0,357,8.8,0.5,79.5,6.2,Olahan,Serealia,vegan
+6,"Jagung muda, rebus",53.2,142,5.0,0.7,30.3,0.8,Olahan,Serealia,vegan
+7,"Jagung kuning, tepung",12.0,355,9.2,3.9,73.7,7.2,Olahan,Serealia,vegan
+8,"Jagung kuning pipil, rebus",63.7,154,3.8,3.5,28.4,0.7,Olahan,Serealia,vegan
+9,Tepung jagung putih,12.0,355,9.2,3.9,73.7,7.2,Olahan,Serealia,vegan
+10,Ketupat ketan,52.0,212,4.0,4.6,38.6,0.2,Olahan,Serealia,vegan
+11,"Ketan hitam, matang",56.9,181,4.0,1.2,37.3,0.3,Olahan,Serealia,vegan
+12,Tapai ketan hitam,50.2,166,3.8,1.0,34.4,0.3,Olahan,Serealia,vegan
+13,"Ketan putih, matang",60.7,163,3.0,0.4,35.7,0.2,Olahan,Serealia,vegan
+14,Tapai ketan putih,58.9,172,3.0,0.5,37.5,0.6,Olahan,Serealia,vegan
+15,"Maizena, tepung",14.0,341,0.3,0.0,85.0,7.0,Olahan,Serealia,vegan
+16,Mi basah,80.0,88,0.6,3.3,14.0,0.1,Olahan,Serealia,vegan
+17,Mi kering,10.6,339,10.0,1.7,6.3,0.4,Olahan,Serealia,vegan
+18,Misoa,10.0,345,8.5,2.2,78.0,0.5,Olahan,Serealia,vegan
+19,Roti putih,40.0,248,8.0,1.2,50.0,9.1,Olahan,Serealia,vegan
+20,Tepung terigu,11.8,333,9.0,1.0,77.2,0.3,Olahan,Serealia,vegan
+21,Amparan tatak,58.4,191,1.3,5.5,34.0,0.0,Olahan,Serealia,vegan
+22,"Apang kukus, kue",49.5,202,3.0,0.3,46.7,0.0,Olahan,Serealia,vegan
+23,"Apem, kue",63.1,148,2.0,0.5,33.9,0.0,Olahan,Serealia,vegan
+24,Biskuit,2.2,458,6.9,14.4,75.1,2.1,Olahan,Serealia,vegan
+25,"Bakpia, kue",38.9,272,8.7,6.7,44.1,0.9,Olahan,Serealia,vegan
+26,Bakwan,40.5,280,8.2,10.2,39.0,3.4,Olahan,Serealia,vegan
+27,Bantal,52.3,190,3.3,0.3,43.5,3.4,Olahan,Serealia,vegan
+28,Baruasa,5.3,417,6.5,8.2,79.3,0.0,Olahan,Serealia,vegan
+29,Batar daan,75.3,107,2.2,2.2,19.6,0.0,Olahan,Serealia,vegan
+30,Bika ambon,51.5,199,2.1,1.5,44.4,0.3,Olahan,Serealia,vegan
+31,Bingka,44.4,273,5.3,10.6,39.1,0.0,Olahan,Serealia,vegan
+32,Bobengka,46.3,225,5.3,2.6,45.2,0.0,Olahan,Serealia,vegan
+33,Bolu peca,55.6,197,3.3,4.6,35.6,0.0,Olahan,Serealia,vegan
+34,Brem,37.4,249,3.4,0.4,58.0,0.0,Olahan,Serealia,vegan
+35,Bubur tinotuan (Manado),80.9,156,2.3,0.2,15.6,8.2,Olahan,Serealia,vegan
+36,Cake tape,32.2,323,4.9,11.5,50.1,1.4,Olahan,Serealia,vegan
+37,Cangkuning,57.5,204,2.8,7.5,31.4,0.0,Olahan,Serealia,vegan
+38,Dodol bali,26.5,298,3.7,2.1,65.9,0.4,Olahan,Serealia,vegan
+39,Dodol galamai,16.5,348,0.4,3.8,76.1,0.5,Olahan,Serealia,vegan
+40,Dodol kedondong,26.4,331,1.9,7.6,63.8,1.0,Olahan,Serealia,vegan
+41,Dodol manado,26.1,373,4.3,16.5,51.9,0.4,Olahan,Serealia,vegan
+42,Emping beras,13.6,403,10.6,2.2,85.3,0.2,Olahan,Serealia,vegan
+43,Gemblong,36.2,274,1.7,5.4,55.5,2.2,Olahan,Serealia,vegan
+44,Gendar goreng,30.4,407,6.4,28.2,32.0,0.1,Olahan,Serealia,vegan
+45,Intip goreng,6.5,474,7.6,21.6,62.3,1.2,Olahan,Serealia,vegan
+46,Jagung gerontol,61.7,156,2.7,1.3,33.3,1.0,Olahan,Serealia,vegan
+47,Jagung titi,9.2,374,9.4,2.2,79.1,0.8,Olahan,Serealia,vegan
+48,Japilus,3.8,500,1.2,25.1,67.3,0.4,Olahan,Serealia,vegan
+49,Kakicak,43.9,296,3.4,15.1,36.7,0.0,Olahan,Serealia,vegan
+50,Kambose,61.5,164,3.0,2.4,32.6,4.3,Olahan,Serealia,vegan
+51,Kapusa,63.5,158,4.4,3.2,27.8,5.3,Olahan,Serealia,vegan
+52,Keddo bodong,33.9,290,4.6,5.7,55.2,0.0,Olahan,Serealia,vegan
+53,"Kelepon, kue",49.6,215,3.7,3.7,41.8,1.0,Olahan,Serealia,vegan
+54,Kereput,3.5,580,4.8,39.6,51.1,0.0,Olahan,Serealia,vegan
+55,Ketoprak,69.1,153,7.9,7.7,13.0,2.9,Olahan,Serealia,vegan
+56,Ketupat kandangan,78.5,109,2.2,5.2,13.4,0.0,Olahan,Serealia,vegan
+57,Koya,13.2,366,4.2,4.3,77.5,0.8,Olahan,Serealia,vegan
+58,Koya mirasa,7.2,370,8.0,1.0,82.2,0.4,Olahan,Serealia,vegan
+59,Koyabu,44.2,241,3.4,4.3,47.2,0.0,Olahan,Serealia,vegan
+60,Kue ali,12.8,440,3.8,18.5,64.5,0.3,Olahan,Serealia,vegan
+61,Kue bangen,5.6,442,3.3,14.7,74.2,0.0,Olahan,Serealia,vegan
+62,Kue gelang,7.1,448,5.8,16.1,70.0,0.0,Olahan,Serealia,vegan
+63,Kue jahe,3.7,425,1.6,8.8,84.6,1.2,Olahan,Serealia,vegan
+64,Kue kelapa,3.3,591,5.6,42.1,47.5,0.0,Olahan,Serealia,vegan
+65,Kue koa,14.5,340,4.8,0.4,79.3,0.0,Olahan,Serealia,vegan
+66,Kue ku temu,46.2,214,3.5,0.2,49.6,0.0,Olahan,Serealia,vegan
+67,Kue lumpur,40.1,291,3.6,11.1,44.1,0.0,Olahan,Serealia,vegan
+68,Kue pelita,71.0,141,5.3,5.5,17.6,0.0,Olahan,Serealia,vegan
+69,Kue putu cangkir,32.6,304,5.3,7.0,54.9,0.9,Olahan,Serealia,vegan
+70,Kue sus,56.6,221,7.5,10.2,24.8,0.0,Olahan,Serealia,vegan
+71,Kue thipan,43.0,247,2.9,4.2,49.5,0.0,Olahan,Serealia,vegan
+72,Laksa/Putu mayang,73.2,121,1.7,3.4,21.1,0.0,Olahan,Serealia,vegan
+73,Lapis legit,21.3,389,6.6,15.7,55.5,0.5,Olahan,Serealia,vegan
+74,Lupis ketan,61.0,164,1.8,2.1,34.5,0.7,Olahan,Serealia,vegan
+75,Manan samin,27.1,379,3.4,18.1,50.6,0.0,Olahan,Serealia,vegan
+76,Martabak india,65.8,153,4.5,4.2,24.3,0.0,Olahan,Serealia,vegan
+77,Martabak mesir,40.2,278,5.1,8.6,45.0,0.0,Olahan,Serealia,vegan
+78,Masekat,15.6,369,2.1,7.0,74.1,4.0,Olahan,Serealia,vegan
+79,Mie aceh rebus,74.6,113,3.0,3.2,18.1,0.0,Olahan,Serealia,vegan
+80,Mie ayam,78.6,102,6.2,3.9,10.5,0.0,Olahan,Serealia,vegan
+81,Mie bakso,74.5,114,5.3,3.0,16.4,0.1,Olahan,Serealia,vegan
+82,Mie celon,75.9,102,3.0,2.1,17.8,0.0,Olahan,Serealia,vegan
+83,Mie pangsit basah,79.2,105,5.9,4.9,9.4,0.0,Olahan,Serealia,vegan
+84,Nasi gemuk,61.4,192,3.8,8.8,24.4,0.7,Olahan,Serealia,vegan
+85,Nasi gurih,60.5,190,4.7,7.5,26.0,0.7,Olahan,Serealia,vegan
+86,Nasi minyak,53.3,207,3.5,5.0,37.1,0.8,Olahan,Serealia,vegan
+87,Nasi rames,65.8,155,10.3,4.2,19.1,0.0,Olahan,Serealia,vegan
+88,Nopia spesial,11.5,387,5.3,7.6,74.3,0.3,Olahan,Serealia,vegan
+89,Onde-onde,27.7,336,4.0,9.8,57.9,0.0,Olahan,Serealia,vegan
+90,Padamaran,67.6,171,3.9,8.9,18.8,0.0,Olahan,Serealia,vegan
+91,Pastel,38.3,307,4.5,13.3,42.4,0.0,Olahan,Serealia,vegan
+92,Pulut,49.1,216,2.6,3.1,44.4,0.0,Olahan,Serealia,vegan
+93,Pundut nasi,77.8,104,1.9,4.1,15.1,0.4,Olahan,Serealia,vegan
+94,Putri selat,66.6,163,2.2,6.5,23.8,0.0,Olahan,Serealia,vegan
+95,Putu sopa,50.7,215,3.3,4.1,41.1,0.0,Olahan,Serealia,vegan
+96,Renggi goreng,8.8,471,4.7,21.8,64.1,6.4,Olahan,Serealia,vegan
+97,Roti boong,34.0,341,5.5,16.2,43.3,0.0,Olahan,Serealia,vegan
+98,Roti warna sawo matang,40.0,249,7.9,1.5,49.7,0.0,Olahan,Serealia,vegan
+99,Sarimuka,61.5,166,2.3,2.8,32.9,0.0,Olahan,Serealia,vegan
+100,Spaghetti,66.1,139,7.4,2.1,22.6,0.0,Olahan,Serealia,vegan
+101,Srikaya ketan,41.0,265,2.7,6.4,49.1,0.0,Olahan,Serealia,vegan
+102,Sunduk lawang,63.4,181,1.9,1.3,32.4,0.0,Olahan,Serealia,vegan
+103,Suwir-suwir,13.4,347,0.5,0.9,84.2,0.8,Olahan,Serealia,vegan
+104,Tipa-tipa,11.3,355,6.2,1.2,79.8,1.3,Olahan,Serealia,vegan
+105,Wajit camilan,27.1,303,6.3,2.7,63.3,6.9,Olahan,Serealia,vegan
+106,Widaran,7.0,424,1.3,10.7,80.7,0.2,Olahan,Serealia,vegan
+107,Wingko babat,29.7,355,3.2,15.1,51.4,2.4,Olahan,Serealia,vegan
+108,Yangko,37.4,254,3.0,1.1,58.1,0.8,Olahan,Serealia,vegan
+109,Putri hijau,54.8,189,5.4,2.1,37.2,0.0,Olahan,Serealia,vegan
+110,"Batatas kelapa, ubi, bakar",73.2,110,1.4,1.1,23.4,4.5,Olahan,Umbi,vegan
+111,"Batatas kelapa, ubi, kukus",75.7,92,1.2,0.3,21.0,4.1,Olahan,Umbi,vegan
+112,"Batatas tali, ubi, rebus",53.2,182,2.4,0.4,42.2,9.2,Olahan,Umbi,vegan
+113,"Belitung, talas, kukus",63.1,145,1.2,0.4,34.2,1.0,Olahan,Umbi,vegan
+114,"Bentul, talas, kukus",81.1,71,2.3,0.3,15.4,0.5,Olahan,Umbi,vegan
+115,"Gadung, ubi, kukus",77.4,88,0.6,0.3,20.9,0.9,Olahan,Umbi,vegan
+116,"Ganyong, rebus",74.1,100,0.8,0.2,23.8,0.9,Olahan,Umbi,vegan
+117,Ketela pohon/singkong kukus,61.5,153,1.2,0.3,36.4,1.3,Olahan,Umbi,vegan
+118,"Suweg, talas, kukus",75.5,93,1.5,0.1,21.9,0.9,Olahan,Umbi,vegan
+119,"Talas bogor, kukus",69.2,120,1.5,0.3,28.2,0.7,Olahan,Umbi,vegan
+120,"Ubi jalar, kuning, kukus",74.2,100,0.7,0.3,23.8,1.0,Olahan,Umbi,vegan
+121,Ubi jalar tinta/ kemayung kukus,58.5,165,0.9,0.2,39.8,1.1,Olahan,Umbi,vegan
+122,Bagea kelapa asin,3.5,450,3.2,13.9,78.1,0.0,Olahan,Umbi,vegan
+123,Bagea kelapa manis,3.0,452,1.3,13.8,80.6,0.0,Olahan,Umbi,vegan
+124,Bagea kenari asin,2.8,529,3.2,29.1,63.6,0.0,Olahan,Umbi,vegan
+125,Bagea kenari manis,3.1,523,3.2,28.2,64.2,0.0,Olahan,Umbi,vegan
+126,Bagea kw 1,7.2,416,6.5,9.4,76.3,0.4,Olahan,Umbi,vegan
+127,Bagea kw 2,7.9,382,0.3,3.5,87.2,0.9,Olahan,Umbi,vegan
+128,Beras Cerdas,11.3,350,2.7,1.1,82.3,6.2,Olahan,Umbi,vegan
+129,Beras ganyong,9.3,364,3.4,0.7,86.3,4.7,Olahan,Umbi,vegan
+130,Beras Siger,13.5,344,1.1,0.2,28.3,5.6,Olahan,Umbi,vegan
+131,Biji nangka/Biji salak,40.5,262,2.3,5.4,51.1,8.0,Olahan,Umbi,vegan
+132,Bubur sagu,62.5,167,0.2,4.0,33.0,0.0,Olahan,Umbi,vegan
+133,Cassavastick,5.6,460,0.8,18.7,17.2,1.6,Olahan,Umbi,vegan
+134,Ceriping getuk singkong,7.2,462,1.2,20.7,67.7,0.6,Olahan,Umbi,vegan
+135,Gatot,12.8,347,1.3,0.7,83.8,5.8,Olahan,Umbi,vegan
+136,Geblek,52.1,195,0.4,1.7,44.4,3.6,Olahan,Umbi,vegan
+137,Getuk goreng,16.5,360,1.3,6.4,74.3,0.8,Olahan,Umbi,vegan
+138,Getuk singkong,49.8,204,0.5,1.4,47.4,0.8,Olahan,Umbi,vegan
+139,Gurandil,47.5,218,0.5,2.5,48.5,3.1,Olahan,Umbi,vegan
+140,Kabuto,58.9,250,2.6,2.5,35.4,1.8,Olahan,Umbi,vegan
+141,Kapurung,79.6,41,2.0,0.3,7.8,2.0,Olahan,Umbi,vegan
+142,Kecimpring singkong goreng,3.7,464,1.2,18.6,73.0,1.3,Olahan,Umbi,vegan
+143,Keremes,6.7,475,1.6,25.2,64.4,2.1,Olahan,Umbi,vegan
+144,Keripik gadung,4.0,446,2.8,14.5,76.0,1.7,Olahan,Umbi,vegan
+145,Keripik kentang,7.8,448,2.7,18.8,67.1,3.8,Olahan,Umbi,vegan
+146,Keripik singkong,4.2,478,0.9,20.7,72.0,2.0,Olahan,Umbi,vegan
+147,Keripik singkong berbumbu,2.2,481,2.2,19.7,73.6,1.6,Olahan,Umbi,vegan
+148,Keripik ubi,6.0,486,0.2,23.9,67.6,14.3,Olahan,Umbi,vegan
+149,Kerupuk cumi goreng,3.4,444,6.9,14.6,71.3,5.0,Olahan,Umbi,vegan
+150,Kerupuk kemplang goreng,5.8,504,5.6,28.1,57.1,0.3,Olahan,Umbi,vegan
+151,Kerupuk kemplang panggang,9.4,356,9.7,1.1,76.9,1.0,Olahan,Umbi,vegan
+152,Kerupuk mie kuning goreng,7.2,476,0.1,21.1,71.3,4.2,Olahan,Umbi,vegan
+153,Kerupuk udang goreng,4.4,477,4.7,20.5,68.5,5.0,Olahan,Umbi,vegan
+154,Kue bangket,16.1,338,1.5,1.2,80.3,0.0,Olahan,Umbi,vegan
+155,Kue putu singkong,44.2,217,1.2,0.5,53.2,2.4,Olahan,Umbi,vegan
+156,Lanting getuk,4.2,422,0.9,10.8,80.4,1.4,Olahan,Umbi,vegan
+157,Mi golosor,82.9,71,0.2,0.8,15.9,0.1,Olahan,Umbi,vegan
+158,Mie Bendo,11.5,353,0.3,0.0,88.0,2.4,Olahan,Umbi,vegan
+159,Mie Sagu,52.8,190,0.2,0.4,46.5,1.4,Olahan,Umbi,vegan
+160,Ongol-ongol sagu,75.3,111,0.3,2.7,21.2,0.3,Olahan,Umbi,vegan
+161,Oyek,12.6,351,0.9,0.9,84.9,4.3,Olahan,Umbi,vegan
+162,Papeda,84.8,61,0.2,0.1,14.9,0.5,Olahan,Umbi,vegan
+163,Rasbi (Beras Ubi),11.1,394,2.2,8.8,76.6,6.8,Olahan,Umbi,vegan
+164,Rasi (Beras Singkong),12.6,350,0.9,0.4,85.7,14.4,Olahan,Umbi,vegan
+165,Sagu forno,31.5,291,0.5,4.0,63.4,0.0,Olahan,Umbi,vegan
+166,Sagu Lemak (Kue Sagon),4.3,452,2.8,14.8,76.8,1.1,Olahan,Umbi,vegan
+167,Sagu manis,32.6,287,0.5,3.9,62.4,0.0,Olahan,Umbi,vegan
+168,Sagu Rendang,8.2,364,0.1,0.2,90.5,1.9,Olahan,Umbi,vegan
+169,Sagu sinole,22.0,354,0.8,8.3,68.9,0.0,Olahan,Umbi,vegan
+170,Serimping talas kebumen,4.8,478,2.5,21.2,69.2,1.7,Olahan,Umbi,vegan
+171,Tapai singkong,57.4,169,1.4,0.3,40.2,2.0,Olahan,Umbi,vegan
+172,Tepung Arrowroot,13.6,355,0.7,0.2,85.2,0.4,Olahan,Umbi,vegan
+173,Tepung Ganyong,13.6,353,0.8,1.7,83.6,0.7,Olahan,Umbi,vegan
+174,Tepung Gaplek,13.0,345,2.4,0.4,83.1,6.7,Olahan,Umbi,vegan
+175,"Tepung kentang, kering",13.0,347,0.3,0.1,85.6,0.4,Olahan,Umbi,vegan
+176,Tepung Mocaf,11.9,350,1.2,0.6,85.0,6.0,Olahan,Umbi,vegan
+177,Tepung Sente,15.3,326,4.0,0.4,76.7,8.5,Olahan,Umbi,vegan
+178,Tepung singkong/ Tapioka,9.1,363,1.1,0.5,88.2,0.9,Olahan,Umbi,vegan
+179,Tepung Tales Beneng,12.2,332,5.7,0.6,76.1,12.2,Olahan,Umbi,vegan
+180,Tepung Ubi Ungu,9.4,354,2.8,0.6,84.4,12.9,Olahan,Umbi,vegan
+181,Tiwul,11.2,353,2.4,1.1,83.4,6.5,Olahan,Umbi,vegan
+182,Tiwul Instan,9.1,395,3.2,8.5,76.5,4.2,Olahan,Umbi,vegan
+183,Ubi Cilembu,52.7,186,1.9,0.2,44.3,3.4,Olahan,Umbi,vegan
+184,Uli batatas,66.5,150,1.1,4.0,27.4,0.0,Olahan,Umbi,vegan
+185,"Kacang belimbing (kecipir), rebus",55.6,204,16.9,8.8,17.5,4.8,Olahan,Kacang,vegan
+186,"Kacang bogor, goreng",3.0,479,12.7,23.2,58.9,1.2,Olahan,Kacang,vegan
+187,"Kacang bogor, rebus",61.2,161,7.7,2.8,27.1,2.0,Olahan,Kacang,vegan
+188,"Kacang gude, rebus",61.5,147,9.0,0.5,27.5,3.4,Olahan,Kacang,vegan
+189,"Kacang hijau, rebus",71.3,109,8.7,0.5,18.3,1.5,Olahan,Kacang,vegan
+190,"Kacang kedelai, goreng",9.6,521,32.2,37.7,22.9,7.6,Olahan,Kacang,vegan
+191,"Kacang kedelai, rebus",56.8,189,20.2,8.2,12.7,1.6,Olahan,Kacang,vegan
+192,"Kacang merah kering, rebus",59.6,158,10.3,0.9,28.2,2.6,Olahan,Kacang,vegan
+193,"Kacang merah segar, rebus",63.1,144,10.0,1.0,24.7,3.5,Olahan,Kacang,vegan
+194,"Kacang mete/biji jambu monyet, goreng",1.0,629,20.4,56.3,19.8,1.1,Olahan,Kacang,vegan
+195,Kacang tanah rebus dg kulit,40.2,360,13.5,31.2,12.8,0.0,Olahan,Kacang,vegan
+196,"Kacang tanah, goreng",2.5,564,25.5,44.4,25.5,2.8,Olahan,Kacang,vegan
+197,"Kacang tanah, rebus",62.1,220,10.6,18.0,8.0,1.0,Olahan,Kacang,vegan
+198,"Kacang tolo / tunggak, rebus",64.4,138,10.7,1.1,22.6,0.9,Olahan,Kacang,vegan
+199,Ampas kacang hijau,70.6,96,3.7,0.6,19.1,2.7,Olahan,Kacang,vegan
+200,Ampas tahu kukus,82.5,75,4.1,2.1,10.7,5.1,Olahan,Kacang,vegan
+201,"Ampas tahu, kering",9.0,414,26.6,18.3,41.3,0.0,Olahan,Kacang,vegan
+202,Pepes oncom ampas tahu,80.9,76,5.2,1.8,10.6,2.2,Olahan,Kacang,vegan
+203,Bungkil biji karet,12.0,333,29.3,3.3,50.0,0.0,Olahan,Kacang,vegan
+204,Bungkil kacang tanah,14.0,336,37.4,13.0,30.5,0.0,Olahan,Kacang,vegan
+205,Bungkil kelapa,16.0,368,23.0,15.0,40.0,0.0,Olahan,Kacang,vegan
+206,Dodol banjarmasin,17.3,368,2.6,8.6,70.0,0.5,Olahan,Kacang,vegan
+207,Emping (kerupuk melinjo),13.0,345,12.0,1.5,71.5,0.0,Olahan,Kacang,vegan
+208,Emping komak,14.2,355,17.8,4.6,60.7,0.0,Olahan,Kacang,vegan
+209,Enting-enting gepuk hello kity,2.4,538,13.6,30.3,52.6,0.2,Olahan,Kacang,vegan
+210,Enting-enting gepuk kacang tanah,4.2,524,13.3,29.2,52.0,0.2,Olahan,Kacang,vegan
+211,Enting-enting wijen,3.7,565,18.2,38.4,36.8,1.9,Olahan,Kacang,vegan
+212,Geplak,29.6,350,1.4,14.4,53.6,1.8,Olahan,Kacang,vegan
+213,Geplak jahe,12.4,462,3.1,24.4,57.7,3.3,Olahan,Kacang,vegan
+214,Kacang atom,3.1,533,27.8,38.1,28.8,2.5,Olahan,Kacang,vegan
+215,Kacang goyang,8.3,516,14.7,31.1,44.4,0.0,Olahan,Kacang,vegan
+216,Kacang negara,3.1,480,18.4,19.1,58.5,11.7,Olahan,Kacang,vegan
+217,Kacang sukro,4.7,484,8.8,26.1,57.7,1.8,Olahan,Kacang,vegan
+218,Kacang tanah sari,2.1,561,25.5,43.8,26.0,2.2,Olahan,Kacang,vegan
+219,Keju kacang tanah (peanut butter),3.0,590,27.0,49.0,20.9,1.6,Olahan,Kacang,vegan
+220,Kembang tahu,10.8,380,48.9,13.8,23.3,0.0,Olahan,Kacang,vegan
+221,Kembang tahu rebus,79.8,90,10.7,4.0,4.7,0.0,Olahan,Kacang,vegan
+222,Keripik oncom,3.0,598,8.3,43.8,42.6,3.3,Olahan,Kacang,vegan
+223,Keripik tempe,3.3,581,12.1,40.6,41.7,2.2,Olahan,Kacang,vegan
+224,Keripik tempe abadi besar,4.5,556,15.8,37.1,39.8,3.5,Olahan,Kacang,vegan
+225,Keripik tempe abadi murni,3.2,542,40.3,42.4,11.6,2.2,Olahan,Kacang,vegan
+226,Keripik tempe abadi sedang,4.4,510,12.3,27.9,52.4,3.6,Olahan,Kacang,vegan
+227,Keripik tempe abadi telur,4.5,529,20.8,31.7,40.2,3.0,Olahan,Kacang,vegan
+228,Keripik tempe abadi prima,4.8,540,16.7,33.9,42.0,2.2,Olahan,Kacang,vegan
+229,Kwaci,9.9,515,30.6,42.1,13.8,13.6,Olahan,Kacang,vegan
+230,Melinjo emping tebal goreng manis,5.6,439,10.0,16.4,65.7,0.0,Olahan,Kacang,vegan
+231,"Melinjo emping tebal, goreng asin",8.0,431,11.1,16.2,63.0,0.0,Olahan,Kacang,vegan
+232,Melinjo emping tipis goreng,3.3,485,11.5,24.5,59.1,0.0,Olahan,Kacang,vegan
+233,Moon tahu,79.9,128,8.0,10.0,1.3,0.2,Olahan,Kacang,vegan
+234,Oncom,57.0,187,13.0,6.0,22.6,0.0,Olahan,Kacang,vegan
+235,Oncom ampas kacang hijau,13.4,376,14.9,6.0,65.7,12.3,Olahan,Kacang,vegan
+236,Oncom kacang hijau + singkong,16.5,351,11.0,5.3,65.9,9.0,Olahan,Kacang,vegan
+237,Oncom kacang tanah pepes,65.0,132,12.7,3.8,13.7,3.1,Olahan,Kacang,vegan
+238,Rempeyek kacang tanah,3.9,513,17.5,32.5,44.3,1.7,Olahan,Kacang,vegan
+239,Rempeyek kacang tolo,6.1,451,11.2,20.2,59.7,1.8,Olahan,Kacang,vegan
+240,Rempeyek kacang uci,4.0,497,17.0,27.6,50.8,2.4,Olahan,Kacang,vegan
+241,Sayur lebui,83.9,64,2.1,0.6,12.5,5.7,Olahan,Kacang,vegan
+242,"Saridele, bubuk",3.0,344,30.0,20.0,43.0,6.2,Olahan,Kacang,vegan
+243,Susu kedelai,87.0,41,3.5,2.5,5.0,0.2,Olahan,Kacang,vegan
+244,Tahu goreng,77.3,115,9.7,8.5,2.5,0.1,Olahan,Kacang,vegan
+245,Tahu telur,41.8,328,12.6,19.9,24.6,0.4,Olahan,Kacang,vegan
+246,Takwa,72.2,148,13.8,8.5,4.0,0.0,Olahan,Kacang,vegan
+247,Tauco,54.0,184,11.4,5.5,22.2,1.9,Olahan,Kacang,vegan
+248,"Tauco cap beruang, cake",11.4,347,7.4,5.2,67.6,3.2,Olahan,Kacang,vegan
+249,"Tauco cap DAS, cake",10.2,358,7.5,4.3,70.4,3.1,Olahan,Kacang,vegan
+250,Tauco cap meong,59.7,159,7.4,4.9,21.3,1.6,Olahan,Kacang,vegan
+251,Tauji cap singa,30.4,277,9.1,4.7,49.6,1.2,Olahan,Kacang,vegan
+252,Tempe bongkrek,72.5,119,4.4,3.5,18.3,0.0,Olahan,Kacang,vegan
+253,Tempe gembus P3G,81.9,73,5.7,1.3,10.3,4.2,Olahan,Kacang,vegan
+254,Tempe gembus yogya,80.7,76,6.8,0.7,10.6,5.3,Olahan,Kacang,vegan
+255,Tempe kacang babi,64.0,139,12.5,0.8,21.9,1.8,Olahan,Kacang,vegan
+256,Tempe kecipir (kacang belimbing),58.2,212,17.5,10.0,12.9,2.9,Olahan,Kacang,vegan
+257,Tempe kedelai + jagung,70.6,143,12.0,5.5,11.4,1.9,Olahan,Kacang,vegan
+258,"Tempe kedelai murni, goreng",36.8,350,24.5,26.6,10.4,4.2,Olahan,Kacang,vegan
+259,Tempe koro benguk,64.0,141,10.2,1.3,23.2,0.0,Olahan,Kacang,vegan
+260,Tempe lamtoro,66.8,128,10.7,0.5,21.3,7.1,Olahan,Kacang,vegan
+261,Tempe lamtoro var. gung dengan kulit,65.1,146,11.7,2.3,19.6,7.6,Olahan,Kacang,vegan
+262,Tempe lamtoro var. gung tanpa kulit,67.1,131,18.0,0.8,13.0,1.3,Olahan,Kacang,vegan
+263,Tempe pasar,68.3,150,14.0,7.7,9.1,1.4,Olahan,Kacang,vegan
+264,Tempe pasar goreng,42.9,336,20.0,28.0,7.8,3.4,Olahan,Kacang,vegan
+265,Tepung hunkwe (pati kacang ijo),10.0,364,4.5,1.0,83.5,16.1,Olahan,Kacang,vegan
+266,Tepung Jalejo,10.0,388,19.0,7.5,61.2,5.8,Olahan,Kacang,vegan
+267,Tepung kacang kedelai,9.0,347,35.9,20.6,29.9,5.8,Olahan,Kacang,vegan
+268,"Bayam, kukus",90.7,30,1.3,0.7,5.8,1.2,Olahan,Sayur,vegan
+269,"Bayam, rebus",93.5,23,1.2,0.6,3.7,1.1,Olahan,Sayur,vegan
+270,"Buncis, rebus",90.6,30,2.2,0.2,6.4,1.5,Olahan,Sayur,vegan
+271,"Daun kacang panjang, kukus",87.2,40,3.7,0.3,8.0,1.8,Olahan,Sayur,vegan
+272,"Daun katuk, rebus",83.3,53,5.3,0.9,9.1,1.2,Olahan,Sayur,vegan
+273,"Daun kelor, rebus",80.3,61,6.1,0.9,10.0,0.9,Olahan,Sayur,vegan
+274,"Daun mengkudu, kukus",81.6,63,3.8,1.5,11.5,2.4,Olahan,Sayur,vegan
+275,"Daun singkong, rebus",90.5,31,3.7,0.6,4.8,1.6,Olahan,Sayur,vegan
+276,"Daun talas, rebus",91.6,27,1.3,0.2,5.9,1.6,Olahan,Sayur,vegan
+277,"Daun ubi merah, kukus",82.5,56,3.1,0.3,13.0,1.5,Olahan,Sayur,vegan
+278,"Kacang panjang, kukus",88.2,39,3.0,0.6,7.6,1.7,Olahan,Sayur,vegan
+279,"Kacang panjang, rebus",90.9,30,2.3,0.4,5.8,1.4,Olahan,Sayur,vegan
+280,"Kangkung, kukus",90.4,30,3.2,0.7,4.7,1.8,Olahan,Sayur,vegan
+281,"Kangkung, rebus",93.0,22,2.5,0.6,3.1,1.2,Olahan,Sayur,vegan
+282,"Paria putih, kukus",95.0,16,0.8,0.2,3.4,1.2,Olahan,Sayur,vegan
+283,"Selada, rebus",93.5,19,2.7,0.2,2.9,0.7,Olahan,Sayur,vegan
+284,"Taoge, goreng",79.2,88,3.2,2.1,14.0,0.7,Olahan,Sayur,vegan
+285,"Taoge, seduh",91.9,28,3.0,0.8,4.0,1.0,Olahan,Sayur,vegan
+286,"Terung panjang, kukus",92.7,23,1.8,0.1,4.9,0.4,Olahan,Sayur,vegan
+287,"Wortel, rebus",92.1,28,0.7,0.5,6.3,0.8,Olahan,Sayur,vegan
+288,"Wortel, kukus",89.5,37,1.0,0.6,8.3,1.1,Olahan,Sayur,vegan
+289,"Asinan Bogor, sayuran",78.0,98,3.9,2.6,14.8,0.5,Olahan,Sayur,vegan
+290,"Anyang, sayur",76.9,126,3.4,7.9,10.3,5.4,Olahan,Sayur,vegan
+291,"Ares, sayur",77.7,113,0.9,7.2,11.2,4.7,Olahan,Sayur,vegan
+292,Arwan sirsir,59.0,277,2.4,25.0,10.7,4.6,Olahan,Sayur,vegan
+293,Beberuk,89.1,65,1.1,5.2,3.5,3.1,Olahan,Sayur,vegan
+294,Botok lamtoro,63.9,186,11.7,9.7,13.0,2.1,Olahan,Sayur,vegan
+295,Buntil daun talas,74.5,141,4.4,10.2,8.0,1.8,Olahan,Sayur,vegan
+296,Cammetutu,79.6,102,3.2,6.0,8.7,4.3,Olahan,Sayur,vegan
+297,"Cap cai, sayur",82.7,97,5.8,6.3,4.2,0.6,Olahan,Sayur,vegan
+298,Gado-gado,68.5,137,6.1,3.2,21.0,1.1,Olahan,Sayur,vegan
+299,"Gudeg, sayur",69.2,160,3.3,9.2,16.0,2.3,Olahan,Sayur,vegan
+300,Gulai pakis,76.1,143,4.0,11.4,6.0,1.4,Olahan,Sayur,vegan
+301,Gulai pliek,71.9,176,7.3,14.9,3.2,0.0,Olahan,Sayur,vegan
+302,Kadada katembe,80.0,110,4.5,6.9,7.1,3.9,Olahan,Sayur,vegan
+303,"Kaparende, sayur",91.7,38,2.4,2.0,2.6,1.5,Olahan,Sayur,vegan
+304,"Karedok, sayur",79.0,92,2.2,3.3,14.1,1.4,Olahan,Sayur,vegan
+305,Keripik bayam,2.3,586,4.9,40.6,50.2,0.5,Olahan,Sayur,vegan
+306,Kotiu hinela tawang nggole,88.4,46,2.2,1.5,6.0,3.8,Olahan,Sayur,vegan
+307,Lema/Rebung asam,96.3,15,1.0,0.4,1.9,0.0,Olahan,Sayur,vegan
+308,Lilin bungkus gedi,84.8,79,2.3,5.2,5.8,2.5,Olahan,Sayur,vegan
+309,Olah-olah,83.9,9,2.1,6.0,7.1,4.4,Olahan,Sayur,vegan
+310,Paku hinela wulelenggapaya,83.4,77,3.5,4.6,5.4,3.6,Olahan,Sayur,vegan
+311,Pelecing kangkung,83.8,75,2.5,2.8,10.0,5.4,Olahan,Sayur,vegan
+312,Purundawa,91.8,25,1.5,0.5,3.6,1.7,Olahan,Sayur,vegan
+313,Rujak cingur,70.1,153,11.3,8.4,8.0,1.4,Olahan,Sayur,vegan
+314,Sayur asem,93.2,29,0.7,0.6,5.0,0.6,Olahan,Sayur,vegan
+315,Sayur bunga pepaya,83.4,49,1.7,0.3,9.8,2.7,Olahan,Sayur,vegan
+316,Sayur garu,70.8,178,2.6,13.9,10.6,8.4,Olahan,Sayur,vegan
+317,Sayur kohu-kohu,72.8,133,7.3,6.6,11.2,1.2,Olahan,Sayur,vegan
+318,Sayur lilin-terubuk,90.4,36,2.7,0.7,4.8,1.4,Olahan,Sayur,vegan
+319,Sayur ndusuk,87.5,49,3.1,2.5,3.6,0.0,Olahan,Sayur,vegan
+320,Sayur sop,92.7,27,1.3,2.0,1.0,0.3,Olahan,Sayur,vegan
+321,Sayur umbut kelapa,85.5,67,5.2,2.9,5.1,1.4,Olahan,Sayur,vegan
+322,Sayur umbut rotan,87.6,57,5.4,2.6,3.1,1.6,Olahan,Sayur,vegan
+323,Shabu-shabu,87.1,88,3.2,8.0,0.8,0.9,Olahan,Sayur,vegan
+324,Semur jengkol,52.7,212,6.0,10.0,29.1,0.0,Olahan,Sayur,vegan
+325,Tinira ninahu nggaluku,91.8,33,1.2,1.3,4.1,3.1,Olahan,Sayur,vegan
+326,Tumis bayam bersantan,91.2,48,1.4,4.2,2.6,0.5,Olahan,Sayur,vegan
+327,Waluh balamak,89.4,45,0.8,0.9,8.1,7.9,Olahan,Sayur,vegan
+328,Woku ubi,73.0,143,3.1,7.8,15.0,7.0,Olahan,Sayur,vegan
+329,Barongko,66.7,159,3.1,5.8,23.5,0.0,Olahan,Buah,vegan
+330,Dodol nanas,16.1,338,1.5,1.2,80.3,0.0,Olahan,Buah,vegan
+331,Getuk pisang,63.7,144,1.1,0.4,34.1,0.4,Olahan,Buah,vegan
+332,Keripik lampung,5.0,485,1.7,22.2,69.7,0.6,Olahan,Buah,vegan
+333,Ledre pisang,3.6,405,4.8,5.1,84.9,0.4,Olahan,Buah,vegan
+334,Lempog durian,25.2,320,3.5,5.7,63.7,4.9,Olahan,Buah,vegan
+335,Loka anjoro,63.3,163,1.1,4.3,30.0,0.0,Olahan,Buah,vegan
+336,Rica-rica taipa,86.7,49,1.6,0.3,10.0,0.0,Olahan,Buah,vegan
+337,Rujak aceh,78.7,82,0.4,0.3,19.7,2.4,Olahan,Buah,vegan
+338,Sale kesemek,25.0,296,1.1,0.6,71.4,0.0,Olahan,Buah,vegan
+339,Sale pisang siam,28.9,281,2.4,0.7,66.1,1.0,Olahan,Buah,vegan
+340,"Sale pisang, cilacap",27.1,295,2.3,2.1,66.9,1.3,Olahan,Buah,vegan
+341,Sanggara belanda,47.1,242,6.4,7.1,38.2,0.0,Olahan,Buah,vegan
+342,Tepung Pisang,13.8,338,2.9,0.4,80.6,5.3,Olahan,Buah,vegan
+343,Tepung Sukun,10.1,353,2.9,0.5,84.4,3.7,Olahan,Buah,vegan
+344,"Ayam, ampela, goreng",4.8,270,32.3,11.2,9.9,0.0,Olahan,Daging,non_vegan
+345,"Ayam, usus, goreng",4.6,473,45.2,26.3,13.9,0.0,Olahan,Daging,non_vegan
+346,"Bebek, daging, goreng",48.8,300,24.0,20.7,4.5,0.0,Olahan,Daging,non_vegan
+347,Ham,42.0,384,16.9,35.0,0.3,0.0,Olahan,Daging,non_vegan
+348,Kerupuk urat,3.6,588,53.7,40.9,1.2,0.0,Olahan,Daging,non_vegan
+349,"Punai, daging, goreng",54.5,224,26.2,11.3,4.4,0.0,Olahan,Daging,non_vegan
+350,"Sapi, abon",7.1,212,18.0,10.6,59.3,7.5,Olahan,Daging,non_vegan
+351,"Sapi, abon, asli",24.8,358,14.6,16.1,38.6,2.5,Olahan,Daging,non_vegan
+352,"Sapi, daging, asap",60.0,182,32.0,6.0,0.0,0.0,Olahan,Daging,non_vegan
+353,"Sapi, daging, kornet",53.0,289,16.0,25.0,0.0,0.0,Olahan,Daging,non_vegan
+354,"Sapi, daging, sosis (Worst)",37.6,448,14.5,42.3,2.3,0.0,Olahan,Daging,non_vegan
+355,"Sapi, hati, sosis (liverworst)",56.6,274,16.0,22.0,3.0,2.3,Olahan,Daging,non_vegan
+356,"Sapi, paru, goreng",45.5,268,23.9,12.7,14.5,0.0,Olahan,Daging,non_vegan
+357,"Ulat sagu, panggang",41.3,380,11.9,30.3,14.9,4.8,Olahan,Daging,non_vegan
+358,"Ayam goreng church texas, dada",42.2,338,35.2,20.6,0.4,0.0,Olahan,Daging,non_vegan
+359,"Ayam goreng church,texas paha",50.3,287,31.0,15.7,1.7,0.0,Olahan,Daging,non_vegan
+360,"Ayam goreng church texas, sayap",47.2,295,34.0,16.0,1.5,0.0,Olahan,Daging,non_vegan
+361,"Ayam goreng kalasan, paha",46.2,275,37.4,12.2,1.3,0.0,Olahan,Daging,non_vegan
+362,"Ayam goreng kentucky, dada",46.5,298,34.2,16.8,0.1,0.0,Olahan,Daging,non_vegan
+363,"Ayam goreng Kentucky, paha",48.7,286,32.1,16.1,1.1,0.0,Olahan,Daging,non_vegan
+364,"Ayam goreng Kentucky,sayap",44.7,297,35.9,15.2,1.6,0.0,Olahan,Daging,non_vegan
+365,Ayam goreng mbok berek dada,43.4,295,39.2,13.6,1.0,0.0,Olahan,Daging,non_vegan
+366,"Ayam goreng pasundan, dada",50.1,246,37.9,9.0,0.7,0.0,Olahan,Daging,non_vegan
+367,"Ayam goreng pasundan, paha",52.8,245,33.1,11.4,0.3,0.0,Olahan,Daging,non_vegan
+368,"Ayam goreng pioneer, dada",44.5,295,37.4,14.7,0.6,0.0,Olahan,Daging,non_vegan
+369,"Ayam goreng sukabumi, dada",49.8,244,36.7,9.2,1.0,0.0,Olahan,Daging,non_vegan
+370,"Ayam goreng sukabumi, paha",46.0,283,35.7,14.3,0.5,0.0,Olahan,Daging,non_vegan
+371,"Ayam taliwang, masakan",57.5,264,18.2,20.1,2.7,0.0,Olahan,Daging,non_vegan
+372,"Babi hutan masak rica, masakan",56.2,491,24.6,16.3,0.2,0.0,Olahan,Daging,non_vegan
+373,Beef burger,45.5,258,10.6,9.5,32.5,0.4,Olahan,Daging,non_vegan
+374,"Beef teriyaki, masakan",65.1,151,8.6,3.1,22.3,0.3,Olahan,Daging,non_vegan
+375,"Beef yakiniku, masakan",67.7,132,9.8,1.1,20.7,0.3,Olahan,Daging,non_vegan
+376,Brongkos,76.4,141,15.3,3.3,12.6,1.0,Olahan,Daging,non_vegan
+377,"Bulgogi, masakan",84.2,72,11.4,4.9,1.4,1.7,Olahan,Daging,non_vegan
+378,"Chicken teriyaki, masakan",68.2,168,13.0,9.6,7.5,0.8,Olahan,Daging,non_vegan
+379,"Chikiniku, masakan",65.4,143,9.8,1.4,22.8,0.4,Olahan,Daging,non_vegan
+380,"Coto mangkasara, kuda, masakan",83.5,96,6.8,5.9,3.8,0.0,Olahan,Daging,non_vegan
+381,"Coto mangkasara, sapi, masakan",85.9,84,6.0,6.0,1.4,0.0,Olahan,Daging,non_vegan
+382,"Djibokum, masakan",43.4,248,10.0,2.3,40.9,0.1,Olahan,Daging,non_vegan
+383,"Empal (daging) Goreng, masakan",43.9,248,36.2,6.9,10.1,0.0,Olahan,Daging,non_vegan
+384,Gulai kambing,78.4,126,4.2,9.4,6.2,0.0,Olahan,Daging,non_vegan
+385,"Jangang bintatoeng, masakan",73.6,107,5.3,2.2,16.5,0.0,Olahan,Daging,non_vegan
+386,"Kalio ayam, masakan",64.7,203,16.0,13.5,4.4,0.0,Olahan,Daging,non_vegan
+387,"Kalio jeroan, masakan",68.9,163,16.5,9.0,4.1,0.0,Olahan,Daging,non_vegan
+388,"Kalio kikil (tunjang), masakan",75.3,122,13.8,5.7,3.9,0.0,Olahan,Daging,non_vegan
+389,"Kalio otak, masakan",70.3,157,8.1,8.8,11.4,0.0,Olahan,Daging,non_vegan
+390,"Lawar babi, masakan",68.8,174,17.0,10.0,3.0,0.0,Olahan,Daging,non_vegan
+391,"Lawar penyu, masakan",66.3,141,23.0,1.5,7.6,0.0,Olahan,Daging,non_vegan
+392,"Lawara jangang, masakan",72.4,159,5.0,10.9,10.1,0.0,Olahan,Daging,non_vegan
+393,"Naan maran sapi, masakan",14.8,478,38.3,33.9,5.1,0.0,Olahan,Daging,non_vegan
+394,"Nasu likku, masakan",59.0,196,14.5,8.3,15.9,0.0,Olahan,Daging,non_vegan
+395,"Oramu ninahu ndawa olaho, masakan",74.9,117,13.7,5.0,4.3,0.0,Olahan,Daging,non_vegan
+396,"Paniki masak santan, masakan",25.4,460,28.5,35.2,7.2,0.0,Olahan,Daging,non_vegan
+397,"Pelolah manuk, masakan",60.0,219,19.7,13.6,4.4,0.0,Olahan,Daging,non_vegan
+398,"Rawon, masakan",86.0,60,5.4,2.5,4.0,0.3,Olahan,Daging,non_vegan
+399,"Rendang sapi, masakan",57.9,193,22.6,7.9,7.8,0.0,Olahan,Daging,non_vegan
+400,"RW, anjing, masakan",60.8,198,24.6,10.7,0.9,0.0,Olahan,Daging,non_vegan
+401,"Sate, penyu, masakan",57.4,179,22.5,3.5,13.3,0.0,Olahan,Daging,non_vegan
+402,"Sate pusut, masakan",52.1,274,12.9,18.6,13.6,0.0,Olahan,Daging,non_vegan
+403,"Penyu, serapah, masakan",71.3,174,13.1,12.2,2.2,0.0,Olahan,Daging,non_vegan
+404,"Sie reuboh, masakan",32.4,474,11.2,42.5,11.7,0.0,Olahan,Daging,non_vegan
+405,"Sop buntut, masakan",86.1,71,7.5,3.6,2.2,0.0,Olahan,Daging,non_vegan
+406,"Sop daging sapi, masakan",87.5,49,5.8,0.5,5.3,0.0,Olahan,Daging,non_vegan
+407,"Sop kaki sapi, masakan",84.5,68,9.0,1.9,3.7,0.0,Olahan,Daging,non_vegan
+408,"Sop kambing, masakan",91.6,34,5.5,0.8,1.1,0.0,Olahan,Daging,non_vegan
+409,"Sop konro, masakan",85.0,71,7.4,2.6,4.5,0.0,Olahan,Daging,non_vegan
+410,"Sop saudara, masakan",82.4,89,7.2,5.0,3.9,0.0,Olahan,Daging,non_vegan
+411,"Soto bandung, masakan",89.9,42,3.9,1.7,2.8,0.4,Olahan,Daging,non_vegan
+412,"Soto banjar, masakan",83.7,110,2.9,9.5,3.2,0.0,Olahan,Daging,non_vegan
+413,"Soto betawi, masakan",75.9,135,2.5,8.8,11.5,0.5,Olahan,Daging,non_vegan
+414,"Soto jeroan, masakan",81.4,92,11.8,4.3,1.4,0.0,Olahan,Daging,non_vegan
+415,"Soto kudus, masakan",91.6,38,2.6,2.3,1.8,0.2,Olahan,Daging,non_vegan
+416,"Soto madura, masakan",89.8,60,3.5,4.5,1.3,0.0,Olahan,Daging,non_vegan
+417,"Soto padang, masakan",75.0,127,5.9,6.6,11.0,0.7,Olahan,Daging,non_vegan
+418,"Soto pekalongan, masakan",83.8,94,3.0,6.8,5.1,0.3,Olahan,Daging,non_vegan
+419,"Soto pemalang, masakan",86.0,75,3.6,5.2,3.5,0.0,Olahan,Daging,non_vegan
+420,"Soto sukaraja, masakan",75.9,80,3.2,3.5,9.0,0.3,Olahan,Daging,non_vegan
+421,"Soto sulung, masakan",88.1,86,2.3,8.5,0.0,0.0,Olahan,Daging,non_vegan
+422,"Sukiyaki, masakan",81.0,75,5.6,0.4,12.2,0.2,Olahan,Daging,non_vegan
+423,"Tedong pallu basa, masakan",81.7,83,10.4,3.4,2.8,0.0,Olahan,Daging,non_vegan
+424,"Tikus rica, masakan",54.9,257,18.8,18.5,3.8,0.0,Olahan,Daging,non_vegan
+425,"Tinoransa, masakan",31.6,516,17.7,49.5,0.0,0.0,Olahan,Daging,non_vegan
+426,"Belut, goreng",11.2,417,25.9,19.4,32.0,0.0,Olahan,Ikan dsb,non_vegan
+427,"Cumi-cumi, goreng",54.2,265,40.6,10.1,0.0,0.0,Olahan,Ikan dsb,non_vegan
+428,"Ikan asin, kering",40.0,193,42.0,1.5,0.0,0.0,Olahan,Ikan dsb,non_vegan
+429,"Ikan bandeng presto, masakan",45.3,296,17.1,20.3,11.3,0.0,Olahan,Ikan dsb,non_vegan
+430,Ikan baung bakar,69.8,144,17.8,5.8,5.2,0.0,Olahan,Ikan dsb,non_vegan
+431,Ikan Belida bakar,68.2,128,18.0,3.0,7.2,0.0,Olahan,Ikan dsb,non_vegan
+432,"Ikan Gabus, kering",24.0,268,58.0,4.0,0.0,0.0,Olahan,Ikan dsb,non_vegan
+433,"Ikan gete, goreng",44.7,267,23.1,19.4,0.2,0.0,Olahan,Ikan dsb,non_vegan
+434,"Ikan hiu, kering",23.1,298,46.3,3.6,20.2,0.0,Olahan,Ikan dsb,non_vegan
+435,"Ikan katombo, asin",44.7,162,31.7,2.8,0.3,0.0,Olahan,Ikan dsb,non_vegan
+436,"Ikan kayu, kering",23.1,302,70.7,1.9,0.4,0.0,Olahan,Ikan dsb,non_vegan
+437,Ikan Lais bakar,69.4,147,17.5,6.5,5.4,0.0,Olahan,Ikan dsb,non_vegan
+438,Ikan Mas pepes,57.5,209,15.2,11.3,11.8,0.5,Olahan,Ikan dsb,non_vegan
+439,Ikan mujahir goreng,44.7,416,46.9,23.9,0.0,0.0,Olahan,Ikan dsb,non_vegan
+440,Ikan Mujahir pepes,73.7,121,21.7,2.8,0.8,0.0,Olahan,Ikan dsb,non_vegan
+441,"Ikan Papuyu, bakar",66.6,152,17.6,6.1,6.7,0.0,Olahan,Ikan dsb,non_vegan
+442,"Ikan Patin, bakar",70.3,144,17.5,6.3,4.3,0.0,Olahan,Ikan dsb,non_vegan
+443,"Ikan sanggang, masakan",42.6,240,21.7,7.7,20.7,0.0,Olahan,Ikan dsb,non_vegan
+444,Rusip,58.5,110,11.5,2.0,11.7,0.0,Olahan,Ikan dsb,non_vegan
+445,Sardines dalam kaleng,47.1,338,21.1,27.0,1.0,0.0,Olahan,Ikan dsb,non_vegan
+446,Abon haruwan,11.6,513,23.7,37.0,21.3,0.0,Olahan,Ikan dsb,non_vegan
+447,Abon ikan,6.4,435,27.2,20.2,36.1,0.0,Olahan,Ikan dsb,non_vegan
+448,"Betok wadi, masakan",69.2,145,16.3,7.0,4.1,0.0,Olahan,Ikan dsb,non_vegan
+449,"Bou ninahu ndamate, masakan",79.5,79,6.3,1.0,1.1,0.0,Olahan,Ikan dsb,non_vegan
+450,"Bouiki ninahu nggaluku, masakan",73.9,94,7.8,2.2,10.8,0.0,Olahan,Ikan dsb,non_vegan
+451,Cakalang asar (asap papua),64.3,155,20.1,3.8,10.2,0.0,Olahan,Ikan dsb,non_vegan
+452,"Dendeng belut, goreng",8.2,382,55.7,14.1,8.0,0.0,Olahan,Ikan dsb,non_vegan
+453,"Dendeng mujahir, goreng",6.5,598,74.3,26.9,9.2,0.0,Olahan,Ikan dsb,non_vegan
+454,Fillet o-fish,51.0,270,12.3,15.9,19.3,0.2,Olahan,Ikan dsb,non_vegan
+455,"Gete kuah asam, masakan",80.1,75,8.2,2.0,6.0,0.0,Olahan,Ikan dsb,non_vegan
+456,"Gulai asam keueung, masakan",86.0,52,10.0,0.5,1.8,0.0,Olahan,Ikan dsb,non_vegan
+457,"Gulai ikan paya, masakan",72.1,148,10.0,9.8,5.0,0.0,Olahan,Ikan dsb,non_vegan
+458,"Gulai ikan, masakan",75.7,106,16.5,3.3,2.5,0.0,Olahan,Ikan dsb,non_vegan
+459,"Gulai keumamah, masakan",81.4,110,5.9,8.2,3.2,0.0,Olahan,Ikan dsb,non_vegan
+460,"Gulai tiram, masakan",73.1,132,9.0,7.2,7.8,0.0,Olahan,Ikan dsb,non_vegan
+461,"Gurame asem manis, masakan",63.1,192,12.7,10.1,12.7,0.0,Olahan,Ikan dsb,non_vegan
+462,"Ikan asar merah, masakan",69.2,146,17.7,5.9,5.6,0.0,Olahan,Ikan dsb,non_vegan
+463,Jambal goreng,13.4,286,48.5,9.2,2.3,0.0,Olahan,Ikan dsb,non_vegan
+464,"Jukku pallu kaloa, masakan",69.4,15,15.2,4.3,8.8,0.0,Olahan,Ikan dsb,non_vegan
+465,"Kaholeo, masakan",11.2,413,28.7,19.8,29.8,0.0,Olahan,Ikan dsb,non_vegan
+466,"Lawara penjah, masakan",64.5,207,7.4,15.4,9.6,0.0,Olahan,Ikan dsb,non_vegan
+467,"Model, masakan",83.9,79,2.2,4.0,8.6,0.0,Olahan,Ikan dsb,non_vegan
+468,"Mujahir acar kuning, masakan",43.1,330,17.8,23.4,12.1,1.1,Olahan,Ikan dsb,non_vegan
+469,"Parede baleh, masakan",80.0,87,10.5,2.5,5.5,0.0,Olahan,Ikan dsb,non_vegan
+470,Pempek adaan,62.6,162,4.9,3.0,27.8,0.0,Olahan,Ikan dsb,non_vegan
+471,Pempek belida,61.4,156,4.2,1.4,31.6,0.2,Olahan,Ikan dsb,non_vegan
+472,Pempek kapal selam,63.4,152,4.5,2.3,28.2,0.0,Olahan,Ikan dsb,non_vegan
+473,Pempek kelesan,53.0,211,12.3,6.1,26.6,0.4,Olahan,Ikan dsb,non_vegan
+474,Pempek kulit,45.7,243,5.2,7.3,39.1,0.0,Olahan,Ikan dsb,non_vegan
+475,Pempek telur,62.4,156,4.7,2.7,28.3,0.0,Olahan,Ikan dsb,non_vegan
+476,Pempek tenggiri,56.3,173,7.2,1.2,33.4,0.2,Olahan,Ikan dsb,non_vegan
+477,"Pencok lele, masakan",47.5,372,7.8,36.3,3.5,0.0,Olahan,Ikan dsb,non_vegan
+478,"Pinda, masakan",71.0,107,15.9,0.6,0.4,0.0,Olahan,Ikan dsb,non_vegan
+479,"Pindang kenari, masakan",80.1,124,9.5,9.6,0.0,0.0,Olahan,Ikan dsb,non_vegan
+480,"Saboko gurita, masakan",76.2,87,15.7,1.5,2.6,0.0,Olahan,Ikan dsb,non_vegan
+481,"Saboko saltan, masakan",76.0,113,17.1,3.6,3.0,0.0,Olahan,Ikan dsb,non_vegan
+482,"Saboko sardin, masakan",70.0,110,12.9,4.3,4.9,0.0,Olahan,Ikan dsb,non_vegan
+483,Sate Bandeng,47.1,283,12.1,16.8,20.9,2.0,Olahan,Ikan dsb,non_vegan
+484,"Sepi, masakan",66.1,88,7.9,1.6,10.6,0.0,Olahan,Ikan dsb,non_vegan
+485,Tekwan,86.7,53,1.9,0.9,9.4,0.0,Olahan,Ikan dsb,non_vegan
+486,"Teri balado, masakan",25.8,365,23.7,22.3,17.5,0.0,Olahan,Ikan dsb,non_vegan
+487,Tumis bandeng,70.5,189,11.3,15.7,0.6,0.0,Olahan,Ikan dsb,non_vegan
+488,Tumis keumamah,45.7,300,14.5,20.0,15.5,4.5,Olahan,Ikan dsb,non_vegan
+489,"Telur ayam, dadar, masakan",61.9,251,16.3,19.4,1.4,0.0,Olahan,Telur,non_vegan
+490,"Telur bebek, dadar, masakan",55.1,301,20.0,23.7,0.0,0.0,Olahan,Telur,non_vegan
+491,"Bayau mi balu, masakan",36.1,313,6.0,12.2,44.8,0.0,Olahan,Telur,non_vegan
+492,"Cucuru bayau, masakan",35.0,349,6.8,18.7,38.3,0.0,Olahan,Telur,non_vegan
+493,"Kalio telur, masakan",79.0,193,10.6,12.4,9.7,0.0,Olahan,Telur,non_vegan
+494,Es krim,62.1,210,4.0,12.5,20.6,0.0,Olahan,Susu,non_vegan
+495,Hangop,84.0,65,10.0,1.0,3.5,0.0,Olahan,Susu,non_vegan
+496,Keju,38.5,326,22.8,20.3,13.1,0.0,Olahan,Susu,non_vegan
+497,Kwark (Quark),59.0,242,19.0,17.0,3.0,0.0,Olahan,Susu,non_vegan
+498,"Susu asam untuk bayi, bubuk",2.5,418,19.0,9.0,65.5,0.0,Olahan,Susu,non_vegan
+499,Susu bubuk,3.5,513,24.6,30.0,36.2,0.0,Olahan,Susu,non_vegan
+500,Susu kental manis,25.0,343,8.2,10.0,55.0,0.0,Olahan,Susu,non_vegan
+501,Susu kental tak manis,73.7,138,7.0,7.9,9.9,0.0,Olahan,Susu,non_vegan
+502,"Susu skim, bubuk",3.5,359,35.6,1.0,52.0,0.0,Olahan,Susu,non_vegan
+503,"Susu skim, segar",90.5,36,3.5,0.1,5.1,0.0,Olahan,Susu,non_vegan
+504,"Yoghurt, segar",88.0,52,3.3,2.5,4.0,0.0,Olahan,Susu,non_vegan
+505,Margarin,15.5,720,0.6,81.0,0.4,0.0,Olahan,Lemak,non_vegan
+506,Mentega,16.0,742,0.5,81.6,1.4,0.0,Olahan,Lemak,non_vegan
+507,Santan (dengan air),80.0,122,2.0,10.0,7.6,1.4,Olahan,Lemak,non_vegan
+508,Santan murni,54.9,324,4.2,34.3,5.6,0.0,Olahan,Lemak,non_vegan
+509,"Coklat manis, batang",1.4,527,2.0,29.8,62.7,6.5,Olahan,Gula,vegan
+510,"Coklat pahit,batang",2.3,615,5.5,42.6,29.2,10.8,Olahan,Gula,vegan
+511,"Coklat susu, batang",1.0,565,9.0,35.0,53.6,3.4,Olahan,Gula,vegan
+512,Coklat bubuk,3.9,311,8.0,4.0,48.9,32.6,Olahan,Gula,vegan
+513,Gula aren,7.0,368,0.0,0.0,92.0,0.0,Olahan,Gula,vegan
+514,Gula kelapa,10.0,386,3.0,10.0,76.0,0.0,Olahan,Gula,vegan
+515,Gula putih,5.4,394,0.0,0.0,94.0,0.0,Olahan,Gula,vegan
+516,"Jam, selai",34.0,239,0.5,0.6,64.5,1.0,Olahan,Gula,vegan
+517,Kopi bubuk instant,2.6,129,12.3,0.5,35.0,0.0,Olahan,Gula,vegan
+518,Madu,20.0,294,0.3,0.0,79.5,0.2,Olahan,Gula,vegan
+519,Markisa squash,46.7,217,2.5,1.0,49.6,0.0,Olahan,Gula,vegan
+520,"Markisa squash, BD",74.4,104,1.2,0.5,23.7,0.0,Olahan,Gula,vegan
+521,Melase,21.2,276,0.0,0.1,71.0,0.0,Olahan,Gula,vegan
+522,Sirup,44.0,213,0.0,0.0,55.0,0.0,Olahan,Gula,vegan
+523,Sirup pirous,43.3,228,0.2,0.4,55.9,0.0,Olahan,Gula,vegan
+524,Teh hijau daun kering,7.7,300,28.3,4.8,53.6,9.6,Olahan,Gula,vegan
+525,Teh hitam daun kering,8.0,293,24.5,2.8,58.8,8.7,Olahan,Gula,vegan
+526,Teh melati daun kering,8.1,299,24.1,3.5,59.0,9.7,Olahan,Gula,vegan
+527,Balichong,59.9,152,13.2,0.8,22.9,1.5,Olahan,Bumbu,vegan
+528,Bekasam,65.5,116,11.9,4.9,6.1,3.5,Olahan,Bumbu,vegan
+529,Bekasang,67.1,78,11.4,2.0,3.6,0.4,Olahan,Bumbu,vegan
+530,Cuka,94.5,21,0.1,0.1,5.0,0.0,Olahan,Bumbu,vegan
+531,Kecap,63.0,71,5.7,1.3,9.0,0.0,Olahan,Bumbu,vegan
+532,Petis ikan,56.0,165,20.0,0.2,20.8,0.0,Olahan,Bumbu,vegan
+533,Petis udang kering,8.3,345,23.8,1.4,59.3,0.0,Olahan,Bumbu,vegan
+534,Petis udang pasta,39.0,220,15.0,0.9,38.0,2.3,Olahan,Bumbu,vegan
+535,Saos tomat,69.5,110,2.0,0.4,24.5,0.9,Olahan,Bumbu,vegan
+536,Tempoya,70.1,110,1.7,1.3,21.9,2.6,Olahan,Bumbu,vegan
+537,Terasi,33.8,155,22.3,2.9,9.9,2.7,Olahan,Bumbu,vegan
+538,Terasi dobo,58.4,191,33.1,3.6,6.6,1.6,Olahan,Bumbu,vegan
+539,Terasi merah,40.0,174,30.0,3.5,5.6,2.2,Olahan,Bumbu,vegan
